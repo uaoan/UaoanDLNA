@@ -46,3 +46,8 @@ new Screen().setStaerActivity(MainActivity.this)
             .setImageUrl("http://i0.hdslb.com/bfs/article/96fa4320db5115711c8c30afaff936910595d336.png")
             .show();
 ```
+
+
+
+![输入图片说明](8001d3d04eb87f032dea3fee27bbd21.jpg) 
+![输入图片说明](cc92f911e7a831ff580f40b5e70b39d.jpg) 
