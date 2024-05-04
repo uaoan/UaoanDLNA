@@ -20,8 +20,12 @@ implementation 'com.github.uaoan:UaoanDLNA:1.0'
 `<uses-permission android:name="android.permission.INTERNET"/>` 
 
  **在AndroidManifest.xml里**
-`<activity android:name=".ScreenActivity"/>\n
- <activity android:name=".ControlActicy"/>` 
+```
+<activity android:name=".ScreenActivity"/>
+
+ <activity android:name=".ControlActicy"/>
+```
+
 
 
 
