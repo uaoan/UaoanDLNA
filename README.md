@@ -21,6 +21,7 @@ implementation 'com.github.uaoan:UaoanDLNA:1.0'
 
  **在AndroidManifest.xml里**
 `<activity android:name=".ScreenActivity"/>
+
  <activity android:name=".ControlActicy"/>` 
 
 
