@@ -17,6 +17,7 @@ implementation 'com.github.uaoan:UaoanDLNA:1.0'
 implementation 'com.github.bumptech.glide:glide:4.12.0'
 implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 implementation 'com.squareup.okio:okio:2.10.0'
+implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.5.30'
 ```
 
  **添加权限**
