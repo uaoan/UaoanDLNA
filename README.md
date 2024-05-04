@@ -1,3 +1,5 @@
+# DLNA投屏
+
 ### 集成
  **1.在 project 的 build.gradle 文件中找到 allprojects{} 代码块添加以下代码：** 
 
