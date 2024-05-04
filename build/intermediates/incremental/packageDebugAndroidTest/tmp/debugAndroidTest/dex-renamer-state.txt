@@ -1,0 +1,16 @@
+#Sat May 04 17:40:04 CST 2024
+base.0=D\:\\AndroidStudioProject\\DLNA\\DlnaLibrary\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\AndroidStudioProject\\DLNA\\DlnaLibrary\\build\\intermediates\\dex\\debugAndroidTest\\mergeLibDexDebugAndroidTest\\5\\classes.dex
+base.2=D\:\\AndroidStudioProject\\DLNA\\DlnaLibrary\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.3=D\:\\AndroidStudioProject\\DLNA\\DlnaLibrary\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\5\\classes.dex
+base.4=D\:\\AndroidStudioProject\\DLNA\\DlnaLibrary\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes2.dex
+path.0=classes.dex
+path.1=5/classes.dex
+path.2=0/classes.dex
+path.3=5/classes.dex
+path.4=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex

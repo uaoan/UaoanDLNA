@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- 适配Android7.0及以上系统临时授权路径 -->
+	<!-- 存储空间根目录  -->
+	<root-path name="p1" path="." />
+	<!-- 内部存储空间应用私有的files目录 -->
+	<files-path name="p2" path="." />
+	<!-- 内部存储空间应用私有的cache目录 -->
+	<cache-path name="p3" path="." />
+	<!-- 外部存储空间根目录 -->
+	<external-path name="p5" path="." />
+	<!-- 外部存储空间应用私有的files目录 -->
+	<external-files-path name="p6" path="." />
+	<!-- 外部存储空间应用私有的cache目录 -->
+	<external-cache-path name="p7" path="." />
+</paths>

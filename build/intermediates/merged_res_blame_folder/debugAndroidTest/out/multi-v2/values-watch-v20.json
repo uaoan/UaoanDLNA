@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.uaoanlao.tv.test.DlnaLibrary-mergeDebugAndroidTestResources-27:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\18235\\.gradle\\caches\\transforms-3\\b98ad1eabf84e74f85d3d6bdb837258b\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

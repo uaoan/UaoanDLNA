@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.uaoanlao.tv" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+6
+7    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+7-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:4:5-74
+7-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:4:22-72
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:5:5-66
+8-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:5:22-64
+9    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+9-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:6:5-80
+9-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:6:22-78
+10    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+10-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:7:5-82
+10-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:7:22-80
+11
+12    <application
+12-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:9:5-18:19
+13        android:allowBackup="true"
+13-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:10:9-35
+14        android:hardwareAccelerated="true"
+14-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:14:9-43
+15        android:label="@string/app_name"
+15-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:11:9-41
+16        android:largeHeap="true"
+16-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:12:36-60
+17        android:requestLegacyExternalStorage="true"
+17-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:15:9-52
+18        android:resizeableActivity="true"
+18-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:13:9-42
+19        android:supportsRtl="true" >
+19-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:12:9-35
+20        <activity android:name="com.uaoanlao.tv.ScreenActivity" />
+20-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:16:9-51
+20-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:16:19-49
+21        <activity android:name="com.uaoanlao.tv.ControlActicy" />
+21-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:17:9-50
+21-->D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:17:19-48
+22    </application>
+23
+24</manifest>

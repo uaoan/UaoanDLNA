@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.uaoanlao.tv.test" >
+4
+5    <uses-sdk
+5-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:5:15-41
+7        android:targetSdkVersion="24" />
+7-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:11:5-15:70
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:11:22-76
+11        android:functionalTest="false"
+11-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:13:22-53
+13        android:label="Tests for com.uaoanlao.tv.test"
+13-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:15:22-68
+14        android:targetPackage="com.uaoanlao.tv.test" />
+14-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:12:22-66
+15
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-75
+16-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-72
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-67
+17-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-64
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+18-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+19    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+19-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-83
+19-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-80
+20    <uses-permission android:name="android.permission.REORDER_TASKS" />
+20-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:24:5-72
+20-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:24:22-69
+21
+22    <queries>
+22-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:24:5-28:15
+23        <package android:name="androidx.test.orchestrator" />
+23-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:25:9-62
+23-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:25:18-59
+24        <package android:name="androidx.test.services" />
+24-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:26:9-58
+24-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:26:18-55
+25        <package android:name="com.google.android.apps.common.testing.services" />
+25-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:27:9-83
+25-->[androidx.test:runner:1.5.2] C:\Users\18235\.gradle\caches\transforms-3\9e5aec313c066c850c8ab5008f31e75c\transformed\runner-1.5.2\AndroidManifest.xml:27:18-80
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.9.0] C:\Users\18235\.gradle\caches\transforms-3\66ed85c701f6c9fc115b0f5b6156f6bb\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.uaoanlao.tv.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.9.0] C:\Users\18235\.gradle\caches\transforms-3\66ed85c701f6c9fc115b0f5b6156f6bb\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.9.0] C:\Users\18235\.gradle\caches\transforms-3\66ed85c701f6c9fc115b0f5b6156f6bb\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.uaoanlao.tv.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.9.0] C:\Users\18235\.gradle\caches\transforms-3\66ed85c701f6c9fc115b0f5b6156f6bb\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.9.0] C:\Users\18235\.gradle\caches\transforms-3\66ed85c701f6c9fc115b0f5b6156f6bb\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:7:5-9:19
+35        android:allowBackup="true"
+35-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] C:\Users\18235\.gradle\caches\transforms-3\66ed85c701f6c9fc115b0f5b6156f6bb\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:extractNativeLibs="false"
+39        android:hardwareAccelerated="true"
+39-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-43
+40        android:label="@string/app_name"
+40-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-41
+41        android:largeHeap="true"
+41-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-33
+42        android:requestLegacyExternalStorage="true"
+42-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-52
+43        android:resizeableActivity="true"
+43-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-42
+44        android:supportsRtl="true" >
+44-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-35
+45        <uses-library android:name="android.test.runner" />
+45-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:8:9-60
+45-->D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9697709362852645879.xml:8:23-57
+46
+47        <activity android:name="com.uaoanlao.tv.ScreenActivity" />
+47-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-67
+47-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:19-64
+48        <activity android:name="com.uaoanlao.tv.ControlActicy" />
+48-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-66
+48-->[:DlnaLibrary] D:\AndroidStudioProject\DLNA\DlnaLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:19-63
+49        <activity
+49-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:27:9-34:20
+50            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+50-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:28:13-99
+51            android:exported="true"
+51-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:29:13-36
+52            android:theme="@style/WhiteBackgroundTheme" >
+52-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:30:13-56
+53            <intent-filter android:priority="-100" >
+53-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+53-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+54-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:35:9-42:20
+58            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+58-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:36:13-95
+59            android:exported="true"
+59-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:37:13-36
+60            android:theme="@style/WhiteBackgroundTheme" >
+60-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:38:13-56
+61            <intent-filter android:priority="-100" >
+61-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+61-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+62-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+63            </intent-filter>
+64        </activity>
+65        <activity
+65-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:43:9-50:20
+66            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+66-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:44:13-103
+67            android:exported="true"
+67-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:45:13-36
+68            android:theme="@style/WhiteBackgroundDialogTheme" >
+68-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:46:13-62
+69            <intent-filter android:priority="-100" >
+69-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+69-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+70-->[androidx.test:core:1.5.0] C:\Users\18235\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+71            </intent-filter>
+72        </activity>
+73
+74        <provider
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+75            android:name="androidx.startup.InitializationProvider"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+76            android:authorities="com.uaoanlao.tv.test.androidx-startup"
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+77            android:exported="false" >
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+78            <meta-data
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+79                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+80                android:value="androidx.startup" />
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\18235\.gradle\caches\transforms-3\e705b2b022ec4c81d401694c86ace512\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+81            <meta-data
+81-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\18235\.gradle\caches\transforms-3\d52d412db771db6551ceb94eedde2244\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+82                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+82-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\18235\.gradle\caches\transforms-3\d52d412db771db6551ceb94eedde2244\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+83                android:value="androidx.startup" />
+83-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\18235\.gradle\caches\transforms-3\d52d412db771db6551ceb94eedde2244\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+84        </provider>
+85    </application>
+86
+87</manifest>

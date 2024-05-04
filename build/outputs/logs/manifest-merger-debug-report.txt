@@ -1,0 +1,56 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:4:5-74
+	android:name
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:4:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:7:5-82
+	android:name
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:7:22-80
+application
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:9:5-18:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:15:9-52
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:14:9-43
+	android:resizeableActivity
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:13:9-42
+	android:largeHeap
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:12:36-60
+	android:allowBackup
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:10:9-35
+activity#com.uaoanlao.tv.ScreenActivity
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:16:19-49
+activity#com.uaoanlao.tv.ControlActicy
+ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:17:9-50
+	android:name
+		ADDED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml:17:19-48
+uses-sdk
+INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProject\DLNA\DlnaLibrary\src\main\AndroidManifest.xml
