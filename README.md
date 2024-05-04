@@ -16,6 +16,15 @@ allprojects {
 implementation 'com.github.uaoan:UaoanDLNA:1.0'
 ```
 
+ **添加权限**
+`<uses-permission android:name="android.permission.INTERNET"/>` 
+
+ **在AndroidManifest.xml里**
+`<activity android:name=".ScreenActivity"/>
+ <activity android:name=".ControlActicy"/>` 
+
+
+
 ### 投屏
  **投屏使用代码** 
 
