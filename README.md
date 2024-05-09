@@ -25,7 +25,9 @@ implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.5.30'
 ```
 
  **添加权限**
-`<uses-permission android:name="android.permission.INTERNET"/>` 
+```
+<uses-permission android:name="android.permission.INTERNET"/>
+```
 
  **在AndroidManifest.xml里**
 ```
