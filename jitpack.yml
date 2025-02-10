@@ -5,4 +5,4 @@ before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
   - FILE="-Dfile=DlnaLibrary-debug.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.uaoan -DartifactId=DlnaLibrary -Dversion=1.0 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.github.uaoan -DartifactId=DlnaLibrary -Dversion=1.0.1 -Dpackaging=aar -DgeneratePom=true
