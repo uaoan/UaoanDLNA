@@ -17,7 +17,7 @@ allprojects {
  **在 app 的 build.gradle 文件中找到 dependencies{} 代码块，并在其中加入以下语句：** 
 
 ```
-implementation 'com.github.uaoan:UaoanDLNA:1.0'
+implementation 'com.github.uaoan:UaoanDLNA:1.0.1'
 implementation 'com.github.bumptech.glide:glide:4.12.0'
 implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 implementation 'com.squareup.okio:okio:2.10.0'
